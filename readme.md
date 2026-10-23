@@ -1,4 +1,6 @@
-![alt text](image.png)
+![alt text](image-1.png)
+
+
 JEV is a generalized classification model.
 
 - Decision-making speed is very fast.
